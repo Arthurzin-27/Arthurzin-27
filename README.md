@@ -2,7 +2,7 @@
 
 - 🎓 Estudando Ciências da Computação na CESAR SCHOOL.
 - 🌱 Aprendendo mais sobre Python e JavaScript
-- 
+  
 
 ## Minhas Skills
 
@@ -19,4 +19,5 @@
 
 ## Onde me encontrar
 [![Gmail Badge](https://img.shields.io/badge/-arthuralmeid27@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthuralmeid27@gmail.com)](mailto:arthuralmeid27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-mba/)
 
