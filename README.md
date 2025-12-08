@@ -2,6 +2,8 @@
 
 - 🎓 Estudando Ciências da Computação na CESAR SCHOOL.
 - 🌱 Aprendendo mais sobre Python e JavaScript
+
+- Sou estudante da área de Ti e estou cursando o primeiro(1) período de Ciências da computação na CESAR school. Domino as linguagens de Python, JavaScript, Html e CSS. Gosto de desafios e inovação, estou sempre buscando melhorias e novas formas de me atualizar a tudo.
   
 
 ## Minhas Skills
